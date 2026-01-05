@@ -7,11 +7,11 @@ This repository contains Python programs from beginner to advanced level, aimed 
    
 ➤ Concepts Used:
      
-   ● Variables
+    ● Variables
       
-   ● Integer data type
+    ● Integer data type
       
-   ● Input and output
+    ● Input and output
   
 ➤ Description:
    
@@ -21,9 +21,9 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
      
-   ● Modulus operator (%)
+    ● Modulus operator (%)
    
-   ● Conditional statements (if-else)
+    ● Conditional statements (if-else)
    
 ➤ Description:
    
@@ -34,11 +34,11 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
 
-   ● Loops (for)
+    ● Loops (for)
    
-   ● Multiplication
+    ● Multiplication
    
-   ● Variables
+    ● Variables
 
 ➤ Description:
 
@@ -53,9 +53,9 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
 
-   ● User input
+    ● User input
    
-   ● Built-in function max()
+    ● Built-in function max()
 
 ➤ Description:
 
@@ -65,11 +65,11 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
 
-   ● Loops
+    ● Loops
    
-   ● Conditional statements
+    ● Conditional statements
    
-   ● break and else with loops
+    ● break and else with loops
 
 ➤ Description:
 
@@ -82,30 +82,30 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
 
-   ● While loop
+    ● While loop
    
-   ● Modulus (%)
+    ● Modulus (%)
    
-   ● Integer division (//)
+    ● Integer division (//)
 
 ➤ Description:
 
    The program reverses a given number by extracting digits one by one and constructing the reversed number.
 
 ➤ Example:
-
-   ● Input: 1234
    
-   ● Output: 4321
+   Input: 1234
+   
+   Output: 4321
 
 7️⃣ Print Numbers from 1 to 100 (Print1-100.py)
 
 ➤ Concepts Used:
 
-   ● or loop
+    ● For loop
    
-   ● range() function
+    ● range() function
 
 ➤ Description:
   
-   ● This program prints numbers from 1 to 100 using a for loop.
+   This program prints numbers from 1 to 100 using a for loop.
