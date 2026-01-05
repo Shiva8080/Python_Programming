@@ -7,11 +7,11 @@ This repository contains Python programs from beginner to advanced level, aimed 
    
 ➤ Concepts Used:
      
-  ● Variables
+   ● Variables
       
-  ● Integer data type
+   ● Integer data type
       
-  ● Input and output
+   ● Input and output
   
 ➤ Description:
    
@@ -21,9 +21,9 @@ This repository contains Python programs from beginner to advanced level, aimed 
 
 ➤ Concepts Used:
 
-   ● Modulus operator (%)
+    ● Modulus operator (%)
    
-   ● Conditional statements (if-else)
+    ● Conditional statements (if-else)
    
 ➤ Description:
    
