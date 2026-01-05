@@ -1,8 +1,8 @@
-<h1><b>>🐍 Python – Basics to Advanced</b></h1>
+<h1><b>🐍 Python – Basics to Advanced</b></h1>
 
 This repository contains Python programs from beginner to advanced level, aimed at helping learners understand core programming concepts through hands-on practice.Each program is simple, well-structured, and focuses on one concept at a time, making revision easy and effective.
 
-<ins><b><h3>1.Basic Python Programs</h3></b></ins>
+<ins><h3><b>1.Basic Python Programs</b></h3></ins>
 
 **1️⃣ Add Two Numbers (Add_Two_Number.py)**
    
