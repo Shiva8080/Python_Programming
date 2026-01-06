@@ -14,10 +14,6 @@ This repository contains Python programs from beginner to advanced level, aimed 
       
     ● Input and output
   
-➤ Description:
-   
-   This program takes two integer values from the user using input(), converts them into integers using int(), and calculates their sum. The result is displayed using the print() function.
-
 **<h3>2️⃣ Even or Odd (Even_Odd.py)</h3>**
 
 ➤ Concepts Used:
