@@ -80,8 +80,8 @@ This repository contains Python programs from beginner to advanced level, aimed 
    List data structure,
    Tuple methods (count(), index()).        
 
-➤ Set Operations:      
-   Set methods (add(), remove(), discard()),
+➤ Set Operations:
+Set methods (add(), remove(), discard()),
    Set operations (intersection(), union(), difference()).
    
 ➤ Dictionary Operations:
