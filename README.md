@@ -7,49 +7,35 @@ This repository contains Python programs from beginner to advanced level, aimed 
 **<h3>1️⃣ Add Two Numbers (Add_Two_Number.py)</h3>**
    
 ➤ Concepts Used:
-      Variables
-      Integer data type
-      Input and output
+      Variables,
+      Integer data type,
+      Input and output.
   
 **<h3>2️⃣ Even or Odd (Even_Odd.py)</h3>**
 
 ➤ Concepts Used:
-     
-    ● Modulus operator (%)
-   
-    ● Conditional statements (if-else)
+   Modulus operator (%),
+   Conditional statements (if-else).
    
 **<h3>3️⃣ Factorial of a Number (Factorial.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Loops (for)
-   
-    ● Multiplication
-   
-    ● Variables
-
-➤ Example:
-
-   Factorial of 5 = 5 × 4 × 3 × 2 × 1 = 120
+   Loops (for),
+   Multiplication,
+   Variables.
 
 **<h3>4️⃣ Largest of Three Numbers (Largest_of_Three_Numbers.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● User input
-   
-    ● Built-in function max()
+   User input,
+   Built-in function max().
 
 **<h3>5️⃣ Prime Number Check (Prime.py)</h3>**
 
 ➤ Concepts Used:
-
-    ● Loops
-   
-    ● Conditional statements
-   
-    ● break and else with loops
+    Loops,
+    Conditional statements,
+    break and else with loops.
 
 **<h3>6️⃣ Reverse a Number (Reverse.py)</h3>**
 
